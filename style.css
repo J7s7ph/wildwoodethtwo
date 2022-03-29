@@ -1,0 +1,125 @@
+/* Home Tab Styling */
+body {
+    background-color: black; 
+    color: #fff;
+    padding: 8px;
+    margin: 0;
+    font: Oxygen;
+}
+
+.navbackground {
+    border-bottom: #ee48e4 solid 1px;
+    height: 100px;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.navbar {
+    list-style: none;
+    display: flex;
+    align-items: center;
+}
+
+.navbar > li {
+    padding: 10px;
+}
+
+main {
+    width: 500px;
+    margin: 100px auto;
+    border: #ee48e4 3px solid;
+    border-radius: 10px;
+    padding: 10px;
+    text-align: center;
+    font-size: 16px;
+}
+
+footer {
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    border: #ee48e4 3px solid;
+    border-radius: 10px;
+    text-align: left;
+    font-size: 16px;
+}
+.footerbackblog {
+    background-color: lightseagreen;
+    display: flex;
+    justify-content: space-between;
+}
+
+.footbackground {
+    padding: 10px;
+    
+}
+
+.navfoot {
+    list-style: none;
+    display: flex;
+    align-items: center;
+}
+
+.navfoot > li {
+    padding: 10px;
+}
+
+.maincontact {
+    width: 500px;
+    margin: 10px auto;
+    text-align: center;
+    font-size: 16px;
+}
+
+/* v1 blog head styling
+.bloghead {
+    padding: 8px; 
+    text-align: center; 
+    font-size: 30px; 
+    color: #13ec41; 
+    border-bottom:  #ee48e4 1px solid; 
+    height: 80px;
+}
+ */
+
+/* v1 navigation Styling */
+
+/* .columns {
+    border: white 1px solid;
+    height: 50px;
+    width: 500px;
+    padding: 5px 5px 5px 5px;
+    display: flex;
+
+}
+.column {
+    border: white 1px solid;
+    width: 100px;
+    height: 25px;
+    margin: 0 5px;
+    padding: 5px;
+    text-align: right;
+    font-size: 16px;
+
+}
+.footcolumns {
+    border: white 1px solid;
+    height: 50px;
+    width: 500px;
+    padding: 5px 5px 5px 5px;
+    display: flex;
+
+}
+.footcolumn {
+    border: white 1px solid;
+    width: 100px;
+    height: 25px;
+    margin: 0 5px;
+    padding: 5px;
+    text-align: right;
+    font-size: 16px;
+}
+     */
